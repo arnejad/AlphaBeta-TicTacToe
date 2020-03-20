@@ -2,7 +2,7 @@
 
 This is an implementation of AlphaBeta algorithm for palying n*m Tic Tac Toe. The Graphics has been powered by QT framework for C++.
 
-This code has been developed at **November 2017**.
+This code was developed at **November 2017**.
 
 Special Thanks to Abdullah Aghazadah (@MeLikeyCode) for his QT graphics tutorial in Youtube.
 
