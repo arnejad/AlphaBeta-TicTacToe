@@ -4,7 +4,7 @@ This is an implementation of AlphaBeta algorithm for palying n*m Tic Tac Toe. Th
 
 This code was developed at **November 2017**.
 
-Special Thanks to Abdullah Aghazadah (@MeLikeyCode) for his QT graphics tutorial in Youtube.
+Special Thanks to Abdullah Aghazadah (@MeLikeyCode) for his QT graphics tutorial on Youtube.
 
 ## Gameplay
 An illustration of the gameplay has been porvided below:
